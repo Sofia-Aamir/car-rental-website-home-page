@@ -508,7 +508,7 @@ function HomePage() {
             </div>
             <FaHeart className="text-gray-400" />
           </div>
-          <img src="./images/car (9).png" alt="Tesla Model S" className="w-full mt-4 rounded-lg" />
+          <img src="./images/car(9).png" alt="Tesla Model S" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
