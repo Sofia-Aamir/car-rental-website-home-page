@@ -225,7 +225,7 @@ function HomePage() {
             <FaHeart className="text-red-500" />
 
           </div>
-          <img src="./images/car (2).png" alt="Ford Mustang" className="w-full mt-4 rounded-lg" />
+          <img src="./images/Car (2).png" alt="Ford Mustang" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
@@ -255,7 +255,7 @@ function HomePage() {
             </div>
             <FaHeart className="text-gray-400" />
           </div>
-          <img src="./images/car (3).png" alt="Tesla Model S" className="w-full mt-4 rounded-lg" />
+          <img src="./images/Car (3).png" alt="Tesla Model S" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
@@ -294,7 +294,7 @@ function HomePage() {
             <FaHeart className="text-red-500" />
 
           </div>
-          <img src="./images/car (4).png" alt="Toyota Corolla" className="w-full mt-4 rounded-lg" />
+          <img src="./images/Car (4).png" alt="Toyota Corolla" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
@@ -324,7 +324,7 @@ function HomePage() {
             </div>
             <FaHeart className="text-gray-400" />
           </div>
-          <img src="./images/car (5).png" alt="Honda Civic" className="w-full mt-4 rounded-lg" />
+          <img src="./images/Car (5).png" alt="Honda Civic" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
@@ -355,7 +355,7 @@ function HomePage() {
             <FaHeart className="text-red-500" />
 
           </div>
-          <img src="./images/car (6).png" alt="Ford Mustang" className="w-full mt-4 rounded-lg" />
+          <img src="./images/Car (6).png" alt="Ford Mustang" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
@@ -385,7 +385,7 @@ function HomePage() {
             </div>
             <FaHeart className="text-red-500" />
           </div>
-          <img src="./images/car (7).png" alt="Tesla Model S" className="w-full mt-4 rounded-lg" />
+          <img src="./images/Car (7).png" alt="Tesla Model S" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
@@ -417,7 +417,7 @@ function HomePage() {
             <FaHeart className="text-red-500" />
 
           </div>
-          <img src="./images/car (8).png" alt="Toyota Corolla" className="w-full mt-4 rounded-lg" />
+          <img src="./images/Car (8).png" alt="Toyota Corolla" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
@@ -447,7 +447,7 @@ function HomePage() {
             </div>
             <FaHeart className="text-red-500" />
           </div>
-          <img src="./images/car (9).png" alt="Honda Civic" className="w-full mt-4 rounded-lg" />
+          <img src="./images/Car (9).png" alt="Honda Civic" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
@@ -478,7 +478,7 @@ function HomePage() {
             <FaHeart className="text-red-500" />
 
           </div>
-          <img src="./images/car (8).png" alt="Ford Mustang" className="w-full mt-4 rounded-lg" />
+          <img src="./images/Car (8).png" alt="Ford Mustang" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
@@ -508,7 +508,7 @@ function HomePage() {
             </div>
             <FaHeart className="text-gray-400" />
           </div>
-          <img src="./images/car(9).png" alt="Tesla Model S" className="w-full mt-4 rounded-lg" />
+          <img src="./images/Car (9).png" alt="Tesla Model S" className="w-full mt-4 rounded-lg" />
           <div className="flex flex-row md:flex-row gap-8 md:gap-5 mt-7">
           <div className="flex items-center gap-4">
           <FaGasPump className="text-xl text-blue-500" />
