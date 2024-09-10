@@ -529,7 +529,11 @@ function HomePage() {
           </div>
         </div>
       </div>
- 
+      <div className="flex justify-center pb-8">
+      <button className="bg-blue-900 text-white py-2 px-6 rounded-md">
+        Show More Cars
+      </button>
+    </div>
     </div>
   );
 }
