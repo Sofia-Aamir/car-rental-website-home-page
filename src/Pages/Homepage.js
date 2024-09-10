@@ -55,7 +55,7 @@ function HomePage() {
       {/* Pick-Up and Drop-Off boxes with blue square between them */}
       <div className="flex flex-col md:flex-row items-center md:gap-[4rem] gap-4 mt-8 pb-6 md:pb-0">
   {/* Pick-Up box */}
-  <div className="w-[450px] sm:w-full md:w-1/2 bg-white rounded-lg p-5 shadow-md">
+  <div className="w-[450px] sm:w-[450px] md:w-1/2 bg-white rounded-lg p-5 shadow-md">
   <div className="flex items-center mb-4">
   <svg className="w-6 h-6" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
   <circle cx="12" cy="12" r="10" stroke="blue" strokeWidth="2" fill="none" />
@@ -106,7 +106,7 @@ function HomePage() {
       </div>
 
   {/* Drop-Off box */}
-  <div className="w-[450px] sm:w-full md:w-1/2 bg-white rounded-lg p-5 shadow-md">
+  <div className="w-[450px] sm:w-[450px] md:w-1/2 bg-white rounded-lg p-5 shadow-md">
     <div className="flex items-center mb-4">
     <svg className="w-6 h-6" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
   <circle cx="12" cy="12" r="10" stroke="blue" strokeWidth="2" fill="none" />
